@@ -1,0 +1,4 @@
+﻿  p3q3.c
+C:\Users\WenZhi\source\repos\Practical3\p3q3.c(31,29): warning C4101: 'tmp': unreferenced local variable
+C:\Users\WenZhi\source\repos\Practical3\p3q3.c(30,12): warning C4101: 'k': unreferenced local variable
+  Practical3.vcxproj -> C:\Users\WenZhi\source\repos\Practical3\Debug\Practical3.exe

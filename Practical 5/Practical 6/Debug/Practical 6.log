@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Practical 6.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source1.cpp
+C:\Users\WenZhi\source\repos\Practical 6\Source1.cpp(7,21): warning C4101: 'startval': unreferenced local variable
+C:\Users\WenZhi\source\repos\Practical 6\Source1.cpp(7,31): warning C4101: 'endval': unreferenced local variable
+  Practical 6.vcxproj -> C:\Users\WenZhi\source\repos\Practical 6\Debug\Practical6.exe

@@ -1,0 +1,4 @@
+﻿  P4Q4.cpp
+C:\Users\WenZhi\source\repos\Practical 4\P4Q4.cpp(9,16): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\WenZhi\source\repos\Practical 4\P4Q4.cpp(14,16): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Practical 4.vcxproj -> C:\Users\WenZhi\source\repos\Practical 4\Debug\Practical 4.exe

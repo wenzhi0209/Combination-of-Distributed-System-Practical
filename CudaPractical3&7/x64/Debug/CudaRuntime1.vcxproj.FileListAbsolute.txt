@@ -1,0 +1,1 @@
+C:\Users\WenZhi\source\repos\CudaRuntime1\x64\Debug\PracticalCuda.exe
